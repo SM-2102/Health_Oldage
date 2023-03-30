@@ -18,8 +18,8 @@ body {
 
 
 .glow-on-hover {
-    width: 360px;
-    height: 285px;
+    width: 700px;
+    height: 80px;
     border: none;
     outline: none;
     display: inline-block;
@@ -106,14 +106,11 @@ body {
 }
 
 .section {
-    padding: 0.5rem 2rem 1rem 2rem;
-    text-align: center;
+    padding: 1rem 2rem 1rem 2rem;
+    text-align: justify;
 }
 
-.section:hover {
-    background-color: #8a9af5;
-    transition: color 2s ease-in-out, background-color 0.15s ease-in-out;
-}
+
 
 h1 {
     font-family: 'Montserrat', sans-serif;
@@ -127,7 +124,7 @@ h1 {
   }
 
   .modal {
-    display: none; /* Hidden by default */
+    display: none;  /*Hidden by default */
     position: fixed; /* Stay in place */
     z-index: 1; /* Sit on top */
     padding-top: 100px; /* Location of the box */
