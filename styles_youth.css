@@ -30,7 +30,7 @@ body {
     font-size: 36px;
     color: #fff;
     padding: 1rem 1rem;
-    background: #6bd6e9;
+    background: #2b3d77;
     cursor: pointer;
     position: relative;
     z-index: 0;
@@ -97,7 +97,7 @@ body {
 }
 
 .jumbotron {
-    background-image:url(middle_age.jpg);
+    background-image:url(youth.jpg);
     color: #ffffff;
     margin-bottom: 2rem;
     padding: 2rem 1rem;
